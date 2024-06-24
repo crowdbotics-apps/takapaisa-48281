@@ -16,6 +16,7 @@
     "@babel/polyfill": "^7.12.1",
     "@modules/camera": "file:./modules/camera/",
     "@modules/login": "file:./modules/login/",
+    "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy": "file:./modules/privacy-policy",
     "@modules/profile": "file:./modules/profile",
     "@modules/social-login": "file:./modules/social-login/",
